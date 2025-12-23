@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+
+# Virtual environment
+venv/
+
+# Secrets & user data
+password.txt
+PyWhatKit_DB.txt
+Remember.txt
+tasks.txt
+
+# Generated / cache files
+folder_index.json
+
+# Media cache (optional)
+*.mp3
